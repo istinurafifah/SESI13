@@ -1,0 +1,38 @@
+[
+    {
+        "id_pemilih": "P100",
+        "nama_pemilih": "Zaskia",
+        "jurusan": "TI",
+        "status_memilih": true
+    },
+    {
+        "id_pemilih": "P200",
+        "nama_pemilih": "Esa",
+        "jurusan": "TI",
+        "status_memilih": true
+    },
+    {
+        "id_pemilih": "P300",
+        "nama_pemilih": "Ibnu",
+        "jurusan": "TI",
+        "status_memilih": true
+    },
+    {
+        "id_pemilih": "P400",
+        "nama_pemilih": "Hamudi",
+        "jurusan": "TI",
+        "status_memilih": false
+    },
+    {
+        "id_pemilih": "P500",
+        "nama_pemilih": "Mato",
+        "jurusan": "TI",
+        "status_memilih": true
+    },
+    {
+        "id_pemilih": "P600",
+        "nama_pemilih": "Naufal",
+        "jurusan": "TI",
+        "status_memilih": false
+    }
+]

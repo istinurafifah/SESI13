@@ -1,0 +1,27 @@
+[
+
+    {
+        "id_calon": "C001",
+        "nama_calon": "Rosya",
+        "visi&misi": "bismillah gaji 2 digit",
+        "jumlah_suara": 0
+    },
+    {
+        "id_calon": "C002",
+        "nama_calon": "Isti",
+        "visi&misi": "kaya raya",
+        "jumlah_suara": 0
+    },
+    {
+        "id_calon": "C003",
+        "nama_calon": "Salwa",
+        "visi&misi": "tetap bangun",
+        "jumlah_suara": 0
+    },
+    {
+        "id_calon": "C004",
+        "nama_calon": "Naura",
+        "visi&misi": "orang sukses",
+        "jumlah_suara": 0
+    }
+]
